@@ -8,7 +8,7 @@ function TopBar(props){
         <img src={EmptyTabLeft}></img>
         <img style={{width:props.text.length*5, height:"89px"}} src={EmptyTabCenter}></img>
         <img src={EmptyTabRight}></img>
-        <div style={{position:"absolute", width:"100%", top:"50%", textAlign:"center"}}>
+        <div style={{position:"absolute", width:"100%", top:"50%", textAlign:"center", fontWeight:"600"}}>
             {props.text}
         </div>
       </div>

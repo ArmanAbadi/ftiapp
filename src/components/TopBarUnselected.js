@@ -5,7 +5,7 @@ function TopBarUnselected(props){
         <img src={TabBlank}></img>
         <img style={{width:props.text.length*5, height:"89px"}} src={TabBlank}></img>
         <img src={TabBlank}></img>
-        <div style={{position:"absolute", width:"100%", top:"50%", textAlign:"center"}}>
+        <div style={{position:"absolute", width:"100%", top:"50%", textAlign:"center", fontWeight:"600"}}>
             {props.text}
         </div>
       </div>
