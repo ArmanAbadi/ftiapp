@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/ftiapp/static/css/main.62ed8d97.css",
-    "main.js": "/ftiapp/static/js/main.5ccfc190.js",
+    "main.js": "/ftiapp/static/js/main.ec56a99e.js",
     "static/media/background.png": "/ftiapp/static/media/background.3a2cd84f0814f3998013.png",
+    "static/media/logo.png": "/ftiapp/static/media/logo.535475493dc8ac6d2da9.png",
     "static/media/Manrope-Regular.ttf": "/ftiapp/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
     "index.html": "/ftiapp/index.html",
     "main.62ed8d97.css.map": "/ftiapp/static/css/main.62ed8d97.css.map",
-    "main.5ccfc190.js.map": "/ftiapp/static/js/main.5ccfc190.js.map"
+    "main.ec56a99e.js.map": "/ftiapp/static/js/main.ec56a99e.js.map"
   },
   "entrypoints": [
     "static/css/main.62ed8d97.css",
-    "static/js/main.5ccfc190.js"
+    "static/js/main.ec56a99e.js"
   ]
 }
