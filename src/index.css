@@ -317,7 +317,6 @@ button {
    background-size:contain;
    background-repeat: no-repeat;
    border: none;
-   border-radius: 10px;
    margin-right:10px;
   }
 
@@ -355,7 +354,6 @@ button {
   right: 0;
   z-index: 2;
   bottom:-305px;
-  border-radius: 15px;
 }
 
 .dropdown-content a {
